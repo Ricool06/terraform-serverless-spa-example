@@ -1,0 +1,12 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "ngrx-universal",
+    "skipInstall": false,
+    "directory": ".",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
